@@ -2,6 +2,10 @@
 
 This project is about building a data pipeline for football data from fbref using Docker, PostgreSQL, Apache Airflow, and Azure Storage. It fetches, processes, and stores football data in a scalable and automated manner.
 
+
+![Project Diagram](./assets/system_architecture.png)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.

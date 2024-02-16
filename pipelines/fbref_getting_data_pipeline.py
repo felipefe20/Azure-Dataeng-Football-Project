@@ -12,7 +12,7 @@ db_password = "airflow"
 db_host = "football_data_postgresql-docker-airflow-postgres-1"
 db_port = "5432"
 db_name = "postgres"
-storage_account_key = "F9CEgDc62GjYYB7LZ4IBbvjjLlwIxG17yrnyFGNQWGSnOhos9PS43WzzBKrAZI/PUu8IcjsGE5ry+AStxWsGVQ=="
+storage_account_key = "your storage account key"
 azure_blob_connection_string = 'abfs://myfilesystem@staccfelipefootball.dfs.core.windows.net/mydirectory/'
 
 
